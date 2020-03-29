@@ -12,5 +12,5 @@ while (N>0):
     N-=1
     i=p*R
     pm=E-i
-    print(int(N), 'your monthly interest is',i, 'monthly principal is', pm)
+    print(int(N), 'your monthly interest is | ',i, 'monthly principal is | ', pm)
     p-=pm
