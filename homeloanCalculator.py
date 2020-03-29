@@ -1,3 +1,5 @@
+#This program can gives you home loan EMI and also it's Amortization schedule
+
 p = float (input('Enter the principal outstanding: '))
 R = float (input('Rate of interest: '))
 N = float (input('Enter number of months remaining: '))
